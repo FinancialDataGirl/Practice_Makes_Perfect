@@ -5,25 +5,30 @@
 时间：2018-06-12  
 Author：财报妹 https://weibo.com/marsfactory
 
+- [FRONT-OFFICE 前台](#FRONT-OFFICE)
+- [MIDDLE-OFFICE 中台](#MIDDLE-OFFICE)
+- [BACK-OFFICE 后台](#BACK-OFFICE)
+
+
 ## FRONT-OFFICE
 
 ### EXCHANGE / TRADING PLATFORM
 - [Mercatus](https://www.gomercatus.com/)
 - [Trumid](https://www.trumid.com/)
-- [ARTIVEST](https://artivest.co/)
-- [kantox](https://www.kantox.com/)
+- [Artivest](https://artivest.co/)
+- [Kantox](https://www.kantox.com/)
 - [Orchard](https://www.orchardplatform.com/)
 - [GLMX](http://www.glmx.com/)
-- [OPEDOOR](https://www.opendoorllc.com/)
+- [OpenDoor](https://www.opendoorllc.com/)
 - [AX Trading Network](https://www.axtrading.com/)
 - [Halo](https://haloinvesting.com/)
-- [SPARK](http://www.sparksystems.sg/)
+- [Spark](http://www.sparksystems.sg/)
 - [TradAir](https://www.tradair.com/)
 - [iex](https://iextrading.com/)
 
 ### PORTFOLIO MANAGEMENT
-- [WEALTHACCESS](https://www.wealthaccess.com/)
-- [55 INSTITUTIONAL](https://www.55-ip.com/) # 改名了
+- [Wealth Access](https://www.wealthaccess.com/)
+- [55ip](https://www.55-ip.com/) # 原名 55 INSTITUTIONAL
 - [additiv](http://www.additiv.com/)
 - [Bridge](http://www.bridgeft.com/)
 - [Nirvana](http://www.nirvanasolutions.com/)
@@ -35,26 +40,26 @@ Author：财报妹 https://weibo.com/marsfactory
 - [Quovo](https://www.quovo.com/)
 - [CAIS](https://www.caisgroup.com/)
 - [资产 360](https://www.zichan360.com/)
-- [confluent](https://www.confluent.io/)
+- [Confluent](https://www.confluent.io/)
 - [Jacobi](https://www.jacobistrategies.com/)
 
 ### HEDGE FUND TECH
-- [clearpool](https://clearpoolgroup.com/)
+- [Clearpool](https://clearpoolgroup.com/)
 - [AlphaClone](https://www.alphaclone.com/)
 - [Potamus](https://potamustrading.com/)
-- [OMEGA POINT](https://www.ompnt.com/)
+- [Omega Point](https://www.ompnt.com/)
 
 ## MIDDLE-OFFICE
 
 ### BUSINESS INTELLIGENCE
-- [ADDEPAR](https://addepar.com/)
-- [RAVENPACK](https://www.ravenpack.com/)
-- [EIDOSEARCH](http://www.eidosearch.com/)
+- [Addepar](https://addepar.com/)
+- [RavenPack](https://www.ravenpack.com/)
+- [EidoSearch](http://www.eidosearch.com/)
 - [CANALYST](http://canalyst.com/)
 - [鼎复数据](http://www.dingfudata.com/)
 - [FI Navigator](https://www.fi-navigator.com/)
 - [Lucena](http://lucenaresearch.com/)
-- [ALIGHT](http://www.alightinc.com/)
+- [Alight](http://www.alightinc.com/)
 - [visible alpha](https://visiblealpha.com/)
 - [Random Forest Capital](http://www.randomforest.io/)
 - [Q4](https://www.q4inc.com/)
@@ -63,17 +68,17 @@ Author：财报妹 https://weibo.com/marsfactory
 
 
 ### MARKET DATA PLATFORM
-- [alphasense](http://www.alphasense.com/)
+- [AlphaSense](http://www.alphasense.com/)
 - [ALTX](https://www.getaltx.com/)
-- [KENSHO](https://www.kensho.com/)
-- [powerlytics](http://www.powerlytics.com/)
+- [Kensho](https://www.kensho.com/)
+- [Powerlytics](http://www.powerlytics.com/)
 - [Xignite](http://www.xignite.com/)
 - [Zirra](https://www.zirra.com/)
 
 
 ### ALTERNATIVE DATA
 - [StockTwits](https://stocktwits.com/)
-- [SECOND MEASURE](https://secondmeasure.com/)
+- [Second Measure](https://secondmeasure.com/)
 - [YipitDATA](https://www.yipitdata.com/)
 - [estimize](https://www.estimize.com/)
 - [accern](https://www.accern.com/)
@@ -81,27 +86,28 @@ Author：财报妹 https://weibo.com/marsfactory
 - [thinknum](https://www.thinknum.com/)
 - [Eagle Alpha](https://eaglealpha.com/)
 - [predata](https://www.predata.com/)
-- [SELERITY](http://www.seleritycorp.com/)
-- [BISON](https://www.bison.co/)
-- [EARNEST](https://www.earnest.com/)
-- [TRACKINSIGHT](http://www.trackdata.com.au/)
-- [ALPACA](https://www.alpaca.ai/)
+- [Selerity](http://www.seleritycorp.com/)
+- [Bison](https://www.bison.co/)
+- [Earnest](https://www.earnest.com/)
+- [TrackInsight](http://www.trackdata.com.au/)
+- [Alpaca](https://www.alpaca.ai/)
 - [EARNIX](https://earnix.com/)
 - [ISENTIUM](http://isentium.com/)
-- [STREET CONTXT](https://streetcontxt.com/)
-- [INVESTIQUANT](https://www.investiquant.com/)
+- [Street Contxt](https://streetcontxt.com/)
+- [InvestQuant](https://www.investiquant.com/)
 - [DATAMINR](https://www.dataminr.com/)
 - [SMARTKARMA](https://www.smartkarma.com/)
 - [AIREX MARKET](http://airexmarket.com/)
-- [QUANDL](https://www.quandl.com/)
+- [Quandl](https://www.quandl.com/)
 
 
 ## BACK-OFFICE
+
 ### CLEARANCE & SETTLEMENT
 - [Finxact](https://finxact.com/)
 - [Delta Data](https://www.deltadata.com/)
 - [Broadway](http://www.broadwaytechnology.com/)
-- [WAVE](https://www.waveapps.com/) ?
+- [WAVE](https://www.waveapps.com/) 
 - [CLEAR BANK](https://www.clear.bank/)
 - [PEERNOVA](http://peernova.com/)
 - [CELERIX](http://celerixtech.com/)
@@ -176,7 +182,7 @@ Author：财报妹 https://weibo.com/marsfactory
 - [governance.io](https://governance.com/)
 - [NetGuardians](https://www.netguardians.ch/)
 - [finomial](https://finomial.com/)
-- [fincad](http://www.fincad.com/)
+- [FINCAD](http://www.fincad.com/)
 - [Merlon Intelligence](https://merlonintelligence.com/)
 - [kyriba](http://www.kyriba.com/)
 - [limina](http://www.limina.com/) 
