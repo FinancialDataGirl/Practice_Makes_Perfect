@@ -1,14 +1,9 @@
 # Fintech are going B2B with capital markets tech
 
-来源：https://weibo.com/1932835417/GfOU7scNx  
-说明：上图中一些公司已经改名啦，下文直接用的最新名字。这其实算是一份 Fintech 公司的小导航啦，如果有错漏，还请指出。  
-时间：2018-06-12  
-Author：财报妹 https://weibo.com/marsfactory
-
-- [FRONT-OFFICE 前台](#FRONT-OFFICE)
-- [MIDDLE-OFFICE 中台](#MIDDLE-OFFICE)
-- [BACK-OFFICE 后台](#BACK-OFFICE)
-
+**来源**：https://weibo.com/1932835417/GfOU7scNx  
+**说明**：上图中一些公司已经改名啦，下文直接用的最新名字。这其实算是一份 Fintech 公司的小导航啦，如果有错漏，还请指出。  
+**时间**：2018-06-13  
+**Author**：财报妹 https://weibo.com/marsfactory  
 
 ## FRONT-OFFICE
 
@@ -91,13 +86,13 @@ Author：财报妹 https://weibo.com/marsfactory
 - [Earnest](https://www.earnest.com/)
 - [TrackInsight](http://www.trackdata.com.au/)
 - [Alpaca](https://www.alpaca.ai/)
-- [EARNIX](https://earnix.com/)
-- [ISENTIUM](http://isentium.com/)
+- [Earnix](https://earnix.com/)
+- [iSentium](http://isentium.com/)
 - [Street Contxt](https://streetcontxt.com/)
 - [InvestQuant](https://www.investiquant.com/)
-- [DATAMINR](https://www.dataminr.com/)
-- [SMARTKARMA](https://www.smartkarma.com/)
-- [AIREX MARKET](http://airexmarket.com/)
+- [Dataminr](https://www.dataminr.com/)
+- [Smartkarma](https://www.smartkarma.com/)
+- [Airex Market](http://airexmarket.com/)
 - [Quandl](https://www.quandl.com/)
 
 
@@ -108,26 +103,26 @@ Author：财报妹 https://weibo.com/marsfactory
 - [Delta Data](https://www.deltadata.com/)
 - [Broadway](http://www.broadwaytechnology.com/)
 - [WAVE](https://www.waveapps.com/) 
-- [CLEAR BANK](https://www.clear.bank/)
-- [PEERNOVA](http://peernova.com/)
-- [CELERIX](http://celerixtech.com/)
+- [ClearBank](https://www.clear.bank/)
+- [PeerNova](http://peernova.com/)
+- [Celerix](http://celerixtech.com/)
 
 ### CLEARANCE & SETTLEMENT - BLOCKCHAIN
-- [AXONI](https://axoni.com/)
-- [PAXOS](https://www.paxos.com/)
-- [DIGITAL ASSET](https://www.digitalasset.com/)
+- [Axoni](https://axoni.com/)
+- [Paxos](https://www.paxos.com/)
+- [Digital Asset](https://www.digitalasset.com/)
 - [Cambridge Blockchain](https://www.cambridge-blockchain.com/)
 - [矩阵元](http://www.juzix.net/)
-- [SOLIDX](https://sldx.com/)
-- [ripple](https://ripple.com/)
+- [SolidX](https://sldx.com/)
+- [Ripple](https://ripple.com/)
 
 ### CAP TABLE MANAGEMENT
 - [capshare](https://www.capshare.com/)
 - [carta](https://carta.com/) # 原名 eShares 
-- [GLOBAL SHARES](https://www.globalshares.com/)
+- [Global Shares](https://www.globalshares.com/)
 
 ### COMMUNICATION SOFTWARE
-- [SYMPHONY](https://symphony.com/)
+- [Symphony](https://symphony.com/)
 - [Cloud9](https://www.c9tec.com/)
 - [Kasisto](https://kasisto.com/)
 
@@ -137,12 +132,12 @@ Author：财报妹 https://weibo.com/marsfactory
 - [ComplyAdvantage](https://complyadvantage.com/)
 - [fenergo](https://www.fenergo.com/)
 - [Digital Reasoning](https://digitalreasoning.com/)
-- [COGNITO](https://cognitohq.com/)
+- [Cognito](https://cognitohq.com/)
 - [Fortress](https://fortressrisk.com/)
-- [NorthRow](https://www.northrow.com/) # 原名 CONTEGO 
-- [TRUNOMI](http://www.trunomi.com/)
+- [NorthRow](https://www.northrow.com/) # 原名 Contego 
+- [Trunomi](http://www.trunomi.com/)
 - [Quantex](http://www.quantex.ca/)
-- [ENCOMPASS](https://www.encompasscorporation.com/)
+- [encompass](https://www.encompasscorporation.com/)
 - [enigma](https://www.enigma.com/)
 
 
@@ -155,13 +150,13 @@ Author：财报妹 https://weibo.com/marsfactory
 
 ### FINANCIAL SERVICES SOFTWARE
 - [PLAID](https://plaid.com/)
-- [DEAL Cloud](https://www.dealcloud.com/)
-- [STARBURST](http://www.starburstlabs.com/)
-- [TRADIER](https://tradier.com/)
-- [OPENFIN](https://openfin.co/)
-- [MENIGA](https://www.meniga.com/)
-- [UIPATH](https://www.uipath.com/)
-- [INVESTCLOUD](https://www.investcloud.com/)
+- [DealCloud](https://www.dealcloud.com/)
+- [Starburst](http://www.starburstlabs.com/)
+- [Tradier](https://tradier.com/)
+- [OpenFin](https://openfin.co/)
+- [Meniga](https://www.meniga.com/)
+- [UiPath](https://www.uipath.com/)
+- [InvestCloud](https://www.investcloud.com/)
 
 ### RISK & COMPLIANCE
 - [AQMetrics](http://aqmetrics.com/)
@@ -197,7 +192,7 @@ Author：财报妹 https://weibo.com/marsfactory
 - [droit](https://droit.tech/) 
 - [coinfirm](https://www.coinfirm.io/)
 - [elliptic](https://www.elliptic.co/) 
-- [ASCENT](https://www.ascentregtech.com/)
+- [Ascent](https://www.ascentregtech.com/)
 - [Chainalysis](https://www.chainalysis.com/)
 - [bigstream](https://bigstream.co/) 
 
